@@ -36,7 +36,7 @@ break down by the water extraction method and how many wells are functional vs n
 ![image header](images/viz2.png)
 
 break down by the source of the water and the quality for each source
-![image header](images/viz3.png)
+![image header](images/Viz3.png)
 
 
 ## Conclusions
