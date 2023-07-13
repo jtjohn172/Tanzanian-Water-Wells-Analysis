@@ -30,13 +30,13 @@ Within our 'data' folder you will find the main data sources in csv format:
 
 ## Data Analysis and Visualization
 break down by basin location and how many wells are functional vs non functional
-![image header](images/viz1.png)
+![image header](images/vizz1.png)
 
 break down by the water extraction method and how many wells are functional vs non functional
-![image header](images/viz2.png)
+![image header](images/vizz2.png)
 
 break down by the source of the water and the quality for each source
-![image header](images/Viz3.png)
+![image header](images/Vizz3.png)
 
 
 ## Conclusions
